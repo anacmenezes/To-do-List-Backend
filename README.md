@@ -5,7 +5,7 @@
   <a href="#practices-adopted">Práticas adotadas</a> •
   <a href="#pre-requisites">Requisitos</a> •
    <a href="#how-to-Installing">Instalando o projeto</a> •
-  <a href="#how-to-use">Como executar</a> •
+  <a href="#how-to-use">Como executar</a>
 </p>
 
 API para gerenciar tarefas (CRUD) utilizando **Java Spring e Spring MVC** para criação do servidor, **Spring Data JPA** para manipulação e persistência de dados, e Postgres Driver para realizar a conexão com banco de dados Postgress.
