@@ -16,7 +16,7 @@ API para gerenciar tarefas (CRUD) utilizando **Java Spring e Spring MVC** para c
 - [Spring MVC](https://docs.spring.io/spring-framework/reference/web/webmvc.html)
 - [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
 - [SpringDoc OpenAPI 3](https://springdoc.org/v2/#spring-webflux-support)
-- [Mysql](https://dev.mysql.com/downloads/)
+- [PostgreSQL](https://www.postgresql.org/download/)
 
 <h2 id="practices-adopted"> Práticas adotadas </h2> 
 
@@ -43,11 +43,6 @@ $ cd crud-java-back
 ```
 <h2 id="how-to-use"> Como Executar</h2>
 
-- Clonar repositório git
-- Construir o projeto:
-```
-$ ./mvnw clean package
-```
 - Executar a aplicação:
 ```
 $ java -jar target/todolist-0.0.1-SNAPSHOT.jar
