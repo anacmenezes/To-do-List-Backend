@@ -10,7 +10,7 @@
 
 API para gerenciar tarefas (CRUD) utilizando **Java Spring e Spring MVC** para criação do servidor, **Spring Data JPA** para manipulação e persistência de dados, e Postgres Driver para realizar a conexão com banco de dados Postgress.
 
-<h2 id="tecnologias"> Tecnologias </h2> 
+<h2 id="tecnologias">🔌 Tecnologias </h2> 
  
 - [Spring Boot](https://spring.io/projects/spring-boot)
 - [Spring MVC](https://docs.spring.io/spring-framework/reference/web/webmvc.html)
@@ -18,7 +18,7 @@ API para gerenciar tarefas (CRUD) utilizando **Java Spring e Spring MVC** para c
 - [SpringDoc OpenAPI 3](https://springdoc.org/v2/#spring-webflux-support)
 - [PostgreSQL](https://www.postgresql.org/download/)
 
-<h2 id="practices-adopted"> Práticas adotadas </h2> 
+<h2 id="practices-adopted">📖 Práticas adotadas </h2> 
 
 - API REST
 - Consultas com Spring Data JPA
@@ -41,7 +41,7 @@ $ git clone https://github.com/anacmenezes/To-do-List-Backend.git
 # Acesse-o
 $ cd crud-java-back
 ```
-<h2 id="how-to-use"> Como Executar</h2>
+<h2 id="how-to-use">💡 Como Executar</h2>
 
 - Executar a aplicação:
 ```
